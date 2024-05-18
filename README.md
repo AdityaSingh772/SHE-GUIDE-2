@@ -20,6 +20,7 @@ SheGuide is a platform dedicated to providing guidance and mentorship to women i
 - Auth0
 - Tailwind CSS
 - Gemini
+- Face detection Rapid Api
 
 ## Unique Functionality
 1. **AI powered Multilingual Supported Chat Room:** Our app features an AI-powered chat room where mentees can anonymously communicate with mentors in their preferred language.
